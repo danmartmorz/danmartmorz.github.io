@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+#content-page{
+     font-family: 'Oswald',serif;  
+}
+
+#content-main{
+    text-align: center;  
+}
+
+.jumbotron{  
+
+}
+
+.infodata{
+  text-align: center; 
+}
+
+.menu-items{
+  text-align: center; 
+}
+
+.menu-list{
+ padding-left: inherit;
+ text-align: center;
+}
+
+.footer {
+  position: relative;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: right;
+  overflow:hidden;
+}
+
